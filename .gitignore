@@ -1,0 +1,10 @@
+/project/
+/routes.csv
+/flight_routes.csv
+/build.sbt
+/target/
+/routes_output.csv/
+/aircraft_data/
+/.idea/
+/.bsp/
+/src/test/
